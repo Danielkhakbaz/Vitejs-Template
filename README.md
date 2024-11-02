@@ -36,7 +36,7 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/vite-project.git
+   git clone https://github.com/Danielkhakbaz/Vitejs-Template
    cd vite-project
    ```
 
